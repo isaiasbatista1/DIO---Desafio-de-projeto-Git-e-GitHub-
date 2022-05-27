@@ -1,6 +1,8 @@
-# 3ª Edição Digital Inovation One (DIO) - Desafio de projeto Git/GitHub da dio
+![image](https://user-images.githubusercontent.com/14929159/170795378-7209cf53-8317-452e-94b9-11b689a12454.png)
 
-Repositório criado com o intuito de realizar o desafio de projeto.
+# Desafio de projeto Git/GitHub da DIO
+
+Repositório criado com o intuito de realizar o desafio de projeto. 
 
  Links úteis:
  
